@@ -4,6 +4,7 @@ A **secure authentication system built using the MERN stack (MongoDB, Express.js
 
 It focuses on security, scalability, and clean architecture, making it suitable for real-world applications and production-ready systems.
 
+![MERN](https://img.shields.io/badge/Stack-MERN-3C873A)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white)
